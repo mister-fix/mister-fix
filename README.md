@@ -1,4 +1,14 @@
-# 🏄‍♂️ Stephen Mwingira
+# 👾 Stephen M
+
+**_`#CertifiedPorkchop`_**
+
+I am a software engineer and content creator from the garden state, welcome to my GitHub page.
+
+![GitHub followers](https://img.shields.io/github/followers/smwingira)
+![GitHub User's stars](https://img.shields.io/github/stars/smwingira)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCHrJKpRFrRQ6WRnpsNzyhSQ)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCHrJKpRFrRQ6WRnpsNzyhSQ)
+![LinkedIn Connections](https://img.shields.io/badge/261-label?style=social&logo=linkedin&label=Connections)
 
 ### 📊 Stats
 
