@@ -1,4 +1,8 @@
-### Hi there 👋
+# 🏄‍♂️ Stephen Mwingira
+
+### 📊 Stats
+
+![Stphen's GitHub stats](https://github-readme-stats.vercel.app/api?username=smwingira&show_icons=true&theme=gruvbox)
 
 <!--
 **smwingira/smwingira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
