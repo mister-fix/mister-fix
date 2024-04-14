@@ -2,7 +2,7 @@
 
 <img align="right" alt="Stephen Mwingira monogram" src="./monogram.svg" height="130" />
 
-<img align="left" width="40" alt="Gif" src="./cryptoadz.gif" style="margin: -6px 0 0 0"/> **_`#CertifiedPorkchop`_**  
+<img align="left" width="40" alt="Gif" src="./cryptoadz.gif" style="margin: -10px 0 0 0"/> **_`#CertifiedPorkchop`_**  
 
 <br />
 
