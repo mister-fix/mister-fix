@@ -2,7 +2,9 @@
 
 <img align="right" alt="Stephen Mwingira monogram" src="./monogram.svg" height="130" />
 
-<img align="left" height="40" width="auto" alt="Gif" style="margin: -6px 0 0 0" src="./cryptoadz.gif" /> **_`#CertifiedPorkchop`_**  
+<img align="left" height="40" width="auto" alt="Gif" src="./cryptoadz.gif" style="margin: -6px 0 0 0"/> **_`#CertifiedPorkchop`_**  
+
+<br />
 
 Hey, I'm Stephen, and I'm a software engineer and content creator from the Garden State, welcome to my GitHub page. I have professional experience creating modern, performance focused, and responsive applications using a myriad of tools and languages. You can keep up with me, my work, and content produced and maintained outside of GitHub by visiting any of the following links below.
 
