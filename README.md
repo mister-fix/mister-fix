@@ -1,6 +1,6 @@
 <style>h1,h2,h3,h4 { border-bottom: 0; } </style>
 
-<img align="right" src="./monogram.svg" height="200" />
+<img align="right" src="./monogram.svg" height="150" />
 
 **_`#CertifiedPorkchop`_**
 
