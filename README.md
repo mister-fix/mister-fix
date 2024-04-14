@@ -11,7 +11,7 @@ Hey, I'm Stephen, and I'm a software engineer and content creator from the Garde
 [![YouTube](https://img.shields.io/badge/YouTube-white?style=flat&logo=youtube&logoColor=white&color=E0593E)](https://www.youtube.com/channel/UCHrJKpRFrRQ6WRnpsNzyhSQ)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNzkuNDIgMjQ5LjE5Ij48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6I2ZmZjt9PC9zdHlsZT48L2RlZnM+PGcgaWQ9IkxheWVyXzIiIGRhdGEtbmFtZT0iTGF5ZXIgMiI+PGcgaWQ9IkxheWVyXzEtMiIgZGF0YS1uYW1lPSJMYXllciAxIj48cG9seWdvbiBjbGFzcz0iY2xzLTEiIHBvaW50cz0iMTQ4LjI3IDI0Ny43NiAxNzkuNDIgMjQ5LjE5IDE2NS4wOCAyMjEuNTEgMTM2LjQyIDE2Ni4xMyAxMjIuMDkgMTM4LjQ0IDkwLjk1IDEzNy4wMSA1OS44MSAxMzUuNTcgNDUuNDcgMTA3Ljg5IDMxLjE0IDgwLjIgNDcuOTYgNTMuOTQgNjIuMjkgODEuNjMgNzYuNjIgMTA5LjMyIDEwNy43NiAxMTAuNzUgOTMuNDMgODMuMDcgNzkuMSA1NS4zOCA2NC43NyAyNy42OSA1MC40NCAwIDAgNzguNzYgMTQuMzMgMTA2LjQ1IDI4LjY1IDEzNC4xNCAyOC42NiAxMzQuMTQgNDIuOTkgMTYxLjgyIDQyLjk5IDE2MS44MiA3NC4xNCAxNjMuMjYgMTA1LjI4IDE2NC43IDExOS42MSAxOTIuMzggMTE5LjYxIDE5Mi4zOSAxMzMuOTQgMjIwLjA3IDEzMy45NCAyMjAuMDcgMTAyLjggMjE4LjYzIDg4LjQ4IDE5MC45NSA4OC40NyAxOTAuOTQgODguNDYgMTkwLjk1IDU3LjMyIDE4OS41MiA3MS42NSAyMTcuMiA4NS45OCAyNDQuODkgMTE3LjEzIDI0Ni4zMiAxNDguMjcgMjQ3Ljc2Ii8+PC9nPjwvZz48L3N2Zz4=)](https://stephenwm.me/)
 
-<h2 style="border-bottom: 0">🧰 Skills and Tools</h2>
+<h2 style="border: none">🧰 Skills and Tools</h2>
 
 ![Java](https://img.shields.io/badge/Java-red?style=flat&logo=oracle&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-6A9DD3?style=flat&logo=cplusplus&logoColor=white)
@@ -75,7 +75,7 @@ Hey, I'm Stephen, and I'm a software engineer and content creator from the Garde
 - **Baruch College | New York, NY, USA Aug 2015 - Dec 2015**
   - Took an introductory business management course. -->
 
-<h2 style="border-bottom: 0">▶️ Recent Videos</h2>
+<h2 style="border:none">▶️ Recent Videos</h2>
 <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
