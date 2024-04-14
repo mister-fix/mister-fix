@@ -1,4 +1,6 @@
-<img align="right" src="./monogram.svg" height="150" />
+# 🏂 Stephen Mwingira
+
+<img align="right" alt="Stephen Mwingira monogram" src="./monogram.svg" height="130" />
 
 **_`#CertifiedPorkchop`_**
 
@@ -11,7 +13,7 @@ Hey, I'm Stephen, and I'm a software engineer and content creator from the Garde
 [![YouTube](https://img.shields.io/badge/YouTube-white?style=flat&logo=youtube&logoColor=white&color=E0593E)](https://www.youtube.com/channel/UCHrJKpRFrRQ6WRnpsNzyhSQ)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNzkuNDIgMjQ5LjE5Ij48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6I2ZmZjt9PC9zdHlsZT48L2RlZnM+PGcgaWQ9IkxheWVyXzIiIGRhdGEtbmFtZT0iTGF5ZXIgMiI+PGcgaWQ9IkxheWVyXzEtMiIgZGF0YS1uYW1lPSJMYXllciAxIj48cG9seWdvbiBjbGFzcz0iY2xzLTEiIHBvaW50cz0iMTQ4LjI3IDI0Ny43NiAxNzkuNDIgMjQ5LjE5IDE2NS4wOCAyMjEuNTEgMTM2LjQyIDE2Ni4xMyAxMjIuMDkgMTM4LjQ0IDkwLjk1IDEzNy4wMSA1OS44MSAxMzUuNTcgNDUuNDcgMTA3Ljg5IDMxLjE0IDgwLjIgNDcuOTYgNTMuOTQgNjIuMjkgODEuNjMgNzYuNjIgMTA5LjMyIDEwNy43NiAxMTAuNzUgOTMuNDMgODMuMDcgNzkuMSA1NS4zOCA2NC43NyAyNy42OSA1MC40NCAwIDAgNzguNzYgMTQuMzMgMTA2LjQ1IDI4LjY1IDEzNC4xNCAyOC42NiAxMzQuMTQgNDIuOTkgMTYxLjgyIDQyLjk5IDE2MS44MiA3NC4xNCAxNjMuMjYgMTA1LjI4IDE2NC43IDExOS42MSAxOTIuMzggMTE5LjYxIDE5Mi4zOSAxMzMuOTQgMjIwLjA3IDEzMy45NCAyMjAuMDcgMTAyLjggMjE4LjYzIDg4LjQ4IDE5MC45NSA4OC40NyAxOTAuOTQgODguNDYgMTkwLjk1IDU3LjMyIDE4OS41MiA3MS42NSAyMTcuMiA4NS45OCAyNDQuODkgMTE3LjEzIDI0Ni4zMiAxNDguMjcgMjQ3Ljc2Ii8+PC9nPjwvZz48L3N2Zz4=)](https://stephenwm.me/)
 
-<h2 style="border: none">🧰 Skills and Tools</h2>
+### 🧰 Skills and Tools
 
 ![Java](https://img.shields.io/badge/Java-red?style=flat&logo=oracle&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-6A9DD3?style=flat&logo=cplusplus&logoColor=white)
@@ -51,31 +53,7 @@ Hey, I'm Stephen, and I'm a software engineer and content creator from the Garde
 ![GitLab](https://img.shields.io/badge/GitLab-6C67A9?style=flat&logo=gitlab&logoColor=orange&color=white)
 ![Espresso](https://img.shields.io/badge/Espresso-6C67A9?style=flat&logo=espresso&logoColor=white&color=946E59)
 
-<!-- ## 💼 Work Experience
-
-- **Develop For Good** (Oct 2023 - Present)
-  - Role &middot; Software Engineer
-- **CDL Challengers Player** (Jan 2024 - Present)
-  - E-Sports Competitive Player
-- **UpWork** (Sep 2019 - Oct 2023)
-  - Role  &middot; Web Developer
-- **FYRE-Digital** (Aug 2018 - Aug 2019)
-  - Role &middot; Lead Web Developer
-- **Baruch College Campus High School** (Sep 2016 - Jun 2017)
-  - Role &middot; IT Assistant (Internship)
-
-## 🎓 Education
-
-- **Brooklyn College | New York, NY, USA Aug 2017 - Dec 2022**
-  - B.S. in Computer Science, with departmental honors.
-  - Awarded the Dean's Honor List for academic achievement 4 times whilst in attendance.
-- **Queensborough Community College | New York, NY, USA Dec 2021 - Aug 2022**
-  - Earned several certificates in IT.
-  - Took courses in their Continuing Education and Workforce Development program.
-- **Baruch College | New York, NY, USA Aug 2015 - Dec 2015**
-  - Took an introductory business management course. -->
-
-<h2 style="border:none">▶️ Recent Videos</h2>
+### ▶️ Recent Videos
 <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -85,20 +63,10 @@ Hey, I'm Stephen, and I'm a software engineer and content creator from the Garde
 <a href="https://www.youtube.com/watch?v=4OrZy6XsaKA"><img src="https://ytcards.demolab.com/?id=4OrZy6XsaKA&title=FreeCodeCamp+JavaScript+Course+-+Part+1&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="FreeCodeCamp JavaScript Course - Part 1" /></a>
 <!-- END YOUTUBE-CARDS -->
 
-
 ### 📊 Stats
 
-<a href="https://www.adamalston.com/">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=smwingira&show_icons=true&layout=compact&theme=gruvbox" />
-</a>
-<a href="">
-    <img height="175" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=smwingira&layout=compact&theme=gruvbox" />
-</a>
-
-<!--
-![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=smwingira&show_icons=true&layout=compact)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=smwingira&layout=compact)
--->
+<img height="175" alt="Stephen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=smwingira&show_icons=true&layout=compact&theme=gruvbox" />
+<img height="175" alt="Most Used Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=smwingira&layout=compact&theme=gruvbox" />
 
 <!--
 **smwingira/smwingira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
