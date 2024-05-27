@@ -20,38 +20,38 @@ Hey, I'm Stephen, and I'm a software engineer and content creator from the Garde
 ![Python](https://img.shields.io/badge/Python-FFCE41?style=flat&logo=python&logoColor=blue)
 ![PHP](https://img.shields.io/badge/PHP-7377AD?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DC55?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-orange?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white)
-![PostCSS](https://img.shields.io/badge/PostCSS-white?style=flat&logo=postcss&logoColor=DE4012)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7330F9?style=flat&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0E6EB0?style=flat&logo=jquery&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-81E0FF?style=flat&logo=ejs&logoColor=white&color=BF225A)
 ![React.js](https://img.shields.io/badge/React.js-81E0FF?style=flat&logo=react&logoColor=gray)
-![Next.js](https://img.shields.io/badge/Next.js-white?style=flat&logo=next.js&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js&logoColor=87CF30)
 ![Express](https://img.shields.io/badge/Express-white?style=flat&logo=express&logoColor=black)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-F6089F?style=flat&logo=graphql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-143A51?style=flat&logo=prisma&logoColor=143A51&color=white)
 ![Heroku](https://img.shields.io/badge/Heroku-6C67A9?style=flat&logo=heroku&logoColor=white&color=6C67A9)
-![MySQL](https://img.shields.io/badge/MySQL-6C67A9?style=flat&logo=mysql&logoColor=FFA81F&color=09648F)
-![Firebase](https://img.shields.io/badge/Firebase-6C67A9?style=flat&logo=firebase&logoColor=F5A516&color=0396DE)
 ![SQLite](https://img.shields.io/badge/SQLite-6C67A9?style=flat&logo=sqlite&logoColor=023955&color=75BEE7)
 ![MongoDB](https://img.shields.io/badge/MongoDB-54B245?style=flat&logo=mongodb&logoColor=54B245&color=086D50)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6C67A9?style=flat&logo=postgresql&logoColor=white&color=396C94)
-![Vite](https://img.shields.io/badge/Vite-6C67A9?style=flat&logo=vite&logoColor=67ABFF&color=FED936)
-![Webpack](https://img.shields.io/badge/Webpack-6C67A9?style=flat&logo=webpack&logoColor=237CC2&color=92D7FB)
 ![Gulp](https://img.shields.io/badge/Gulp-6C67A9?style=flat&logo=gulp&logoColor=white&color=EA5356)
 ![ESLint](https://img.shields.io/badge/ESLint-6C67A9?style=flat&logo=eslint&logoColor=8582FA&color=5632CD)
 ![Prettier](https://img.shields.io/badge/Prettier-6C67A9?style=flat&logo=prettier&logoColor=EB6363&color=253239)
-![Jest](https://img.shields.io/badge/Jest-C8431B?style=flat&logo=jest&logoColor=C8431B&color=413D3E)
-![Cypress](https://img.shields.io/badge/Cypress-6C67A9?style=flat&logo=cypress&logoColor=white&color=6C67A9)
 ![Git](https://img.shields.io/badge/Git-F15739?style=flat&logo=git&logoColor=white&color=F15739)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=black&color=white)
-![GitLab](https://img.shields.io/badge/GitLab-6C67A9?style=flat&logo=gitlab&logoColor=orange&color=white)
-![Espresso](https://img.shields.io/badge/Espresso-6C67A9?style=flat&logo=espresso&logoColor=white&color=946E59)
+<!-- ![EJS](https://img.shields.io/badge/EJS-81E0FF?style=flat&logo=ejs&logoColor=white&color=BF225A) -->
+<!-- ![Vite](https://img.shields.io/badge/Vite-6C67A9?style=flat&logo=vite&logoColor=67ABFF&color=FED936) -->
+<!-- ![GitLab](https://img.shields.io/badge/GitLab-6C67A9?style=flat&logo=gitlab&logoColor=orange&color=white) -->
+<!-- ![PostCSS](https://img.shields.io/badge/PostCSS-white?style=flat&logo=postcss&logoColor=DE4012) -->
+<!-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) -->
+<!-- ![Next.js](https://img.shields.io/badge/Next.js-white?style=flat&logo=next.js&logoColor=black) -->
+<!-- ![GraphQL](https://img.shields.io/badge/GraphQL-F6089F?style=flat&logo=graphql&logoColor=white) -->
+<!-- ![Prisma](https://img.shields.io/badge/Prisma-143A51?style=flat&logo=prisma&logoColor=143A51&color=white) -->
+<!-- ![MySQL](https://img.shields.io/badge/MySQL-6C67A9?style=flat&logo=mysql&logoColor=FFA81F&color=09648F) -->
+<!-- ![Firebase](https://img.shields.io/badge/Firebase-6C67A9?style=flat&logo=firebase&logoColor=F5A516&color=0396DE) -->
+<!-- ![Webpack](https://img.shields.io/badge/Webpack-6C67A9?style=flat&logo=webpack&logoColor=237CC2&color=92D7FB) -->
+<!-- ![Jest](https://img.shields.io/badge/Jest-C8431B?style=flat&logo=jest&logoColor=C8431B&color=413D3E) -->
+<!-- ![Cypress](https://img.shields.io/badge/Cypress-6C67A9?style=flat&logo=cypress&logoColor=white&color=6C67A9) -->
+<!-- ![Espresso](https://img.shields.io/badge/Espresso-6C67A9?style=flat&logo=espresso&logoColor=white&color=946E59) -->
 
 ### ▶️ Recent Videos
 <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
