@@ -65,15 +65,15 @@ Hey, I'm Stephen, and I'm a software engineer and content creator from the Garde
 
 ### 📊 Stats
 
-<a href="https://github.com/smwingira/smwingira">
-    <img height="175" alt="Stephen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=smwingira&show_icons=true&layout=compact&theme=gruvbox" />
+<a href="https://github.com/mister-fix/mister-fix">
+    <img height="175" alt="Stephen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mister-fix&show_icons=true&layout=compact&theme=gruvbox" />
 </a>
-<a href="https://github.com/smwingira/smwingira">
-    <img height="175" alt="Most Used Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=smwingira&layout=compact&theme=gruvbox" />
+<a href="https://github.com/mister-fix/mister-fix">
+    <img height="175" alt="Most Used Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mister-fix&layout=compact&theme=gruvbox" />
 </a>
 
 <!--
-**smwingira/smwingira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mister-fix/mister-fix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
