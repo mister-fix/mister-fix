@@ -1,6 +1,6 @@
 # ✌️ Stephen Mwingira
 
-<img align="right" alt="Stephen Mwingira monogram" src="./monogram.svg" height="130" />
+<!-- <img align="right" alt="Stephen Mwingira monogram" src="./monogram.svg" height="130" /> -->
 
 <img align="left" width="30" alt="Gif" src="./cryptoadz.gif" style="margin: -6px 0 0 0" />  **_`#CertifiedPorkchop`_**  
 
@@ -61,9 +61,9 @@ _CEWD, Information Technology_
 
 ## 🚀 Current Goals
 
-- 🌱 Deepening my systems design and backend architecture skills
-- 🧪 Exploring distributed systems and edge computing
-- 📚 Contributing to open source and dev tooling projects
+- Deepening my systems design and backend architecture skills
+- Exploring distributed systems and edge computing
+- Contributing to open source and dev tooling projects
 
 ## 🔗 Links & Socials
 
