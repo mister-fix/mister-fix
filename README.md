@@ -1,6 +1,7 @@
-# ✌️ Stephen Mwingira
+<!-- # ✌️ Stephen Mwingira -->
 
 <!-- <img align="right" alt="Stephen Mwingira monogram" src="./monogram.svg" height="130" /> -->
+#
 
 <img align="left" width="30" alt="Gif" src="./cryptoadz.gif" style="margin: -6px 0 0 0" />  **_`#CertifiedPorkchop`_**  
 
