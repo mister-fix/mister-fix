@@ -15,7 +15,7 @@ I have 7 years of experience building high-performance, responsive applications.
 - **Mobile**: Android Studio, React Native  
 - **Backend & APIs**: Node.js, Express.js, GraphQL, Firebase, Heroku, Fly.io, Mongoose, Prisma, Drizzle ORM, JWT  
 - **Web Development**: React.js, Next.js, jQuery, HTML, CSS, Sass, PostCSS, TailwindCSS, Bootstrap, shadcn/ui, EJS  
-- **Databases & Cloud**: PostgreSQL, MongoDB, MySQL, SQLite, Supabase, Vercel  
+- **Databases & Cloud**: PostgreSQL, MongoDB, MySQL, SQLite, Supabase, Neon, Vercel  
 - **Tooling & DevOps**: Docker, Git, GitHub, Vite, Webpack, Prettier, ESLint  
 - **Testing**: Jest, Playwright, Espresso  
 
@@ -23,8 +23,12 @@ I have 7 years of experience building high-performance, responsive applications.
 
 - **Software Engineer @ Develop for Good** – _Remote_ (Oct 2023 – Dec 2024)
 - **Web & Graphic Designer @ WahooWeb** – _Contract_ (Jun 2022 – Feb 2024)
-- **Web Developer @ UpWork** – _Freelancer_ (Sep 2019 – Present)
-- **Lead Web Developer @ FYRE Digital** – _Remote_ (Aug 2018 – Sep 2019)
+- **Live Audio Technician @ Tanzania Mission to the U.S.** - New York, NY (Jun. 2019 - Jan. 2023)
+- **Programming Tutor - Java, C++, Node.js** - New York, NY (Jun. 2021 - May 2022)
+- **Freelance Web Developer @ UpWork** – _Freelancer_ (Sep 2019 – Present)
+- **Lead Web Developer @ FYRE Digital** – _Remote_ (Aug. 2018 – Sep. 2019)
+- **Web Designer @ Novus Talent Acquisition** – _Contract_ Union City, NJ (Jan. 2019 – Jun. 2019)
+- **Lead UI/UX Designer @ Vanguard Byte** – _Remote_ (Jan. 2018 – Aug. 2018)
 - **IT Intern @ Baruch College Campus High School**, New York, NY (Sep 2016 – Jun 2017)
 
 ## 🎓 Education
@@ -44,7 +48,12 @@ _CEWD, Information Technology_
 
 ## 🧩 Featured Projects
 
-- [**CODStats API (TopFrag)**](https://github.com/topfrag-gg/codstats-api): Community API for Call of Duty League and Challengers eSports stats.
+- [**Nestwork**](https://nestwork-web.vercel.app): Nestwork is a full-stack monorepo task management application (inspired by Linear/Trello), powered by Turborepo and leverages a modular architecture for scalable app and package development.
+  - Built with **Next.js** and **TailwindCSS**
+  - Uses **Better-Auth** for authentication, organization and role management
+  - Uses **Drizzle** with **Neon** and **PostgreSQL** for data storage
+  - Uses **TailwindCSS** and **shadcn/ui** for UI/UX
+<!-- - [**CODStats API (TopFrag)**](https://github.com/topfrag-gg/codstats-api): Community API for Call of Duty League and Challengers eSports stats.
   - Built with **Docker**, **TypeScript**, **Express.js**, **PostgreSQL**, **Prisma**
   - Features player & team statistics, leaderboard generation, match schedules & results, event and tournament data, and historical performance tracking and comparisons
   <!-- - Designed to power the official **topfragstats.com** platform -->
@@ -52,11 +61,11 @@ _CEWD, Information Technology_
   - Built with **Node.js**, **Express.js**, **TypeScript**, **PostgreSQL**, and **Prisma**
   - Features analytics tracking, custom aliases, and expiration support
   - Designed with security in mind, including rate limiting and input validation
-  - Clean and responsive UI using **React**, **TailwindCSS**, and **Vite**
+  - Clean and responsive UI using **React**, **TailwindCSS**, and **Vite** -->
 - [**Wintake**](https://github.com/cunychenhclass/droidapp-group-6): Android app that tracks water intake and sets reminders to help users stay hydrated.
   - Built with **Java** and **Android Studio**
   - Uses **Firebase** for authentication, real-time database, and notifications
-  - Allows goal setting, analytics, and daily tracking -->
+  - Allows goal setting, analytics, and daily tracking
 
 <!-- 📅 Aug 2017 – Jan 2023 -->
 
