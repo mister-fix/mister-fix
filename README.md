@@ -88,10 +88,6 @@ _CEWD, Information Technology_
 <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![FreeCodeCamp JavaScript Course - Part 4](https://ytcards.demolab.com/?id=oL1yaPt6AwA&title=FreeCodeCamp+JavaScript+Course+-+Part+4&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172)](https://www.youtube.com/watch?v=oL1yaPt6AwA)
-[![FreeCodeCamp JavaScript Course - Part 3](https://ytcards.demolab.com/?id=UHa0qlNRP_8&title=FreeCodeCamp+JavaScript+Course+-+Part+3&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172)](https://www.youtube.com/watch?v=UHa0qlNRP_8)
-[![FreeCodeCamp JavaScript Course - Part 2](https://ytcards.demolab.com/?id=5UBmso8Rtz0&title=FreeCodeCamp+JavaScript+Course+-+Part+2&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172)](https://www.youtube.com/watch?v=5UBmso8Rtz0)
-[![FreeCodeCamp JavaScript Course - Part 1](https://ytcards.demolab.com/?id=4OrZy6XsaKA&title=FreeCodeCamp+JavaScript+Course+-+Part+1&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172)](https://www.youtube.com/watch?v=4OrZy6XsaKA)
 <!-- END YOUTUBE-CARDS -->
 
 ## 📊 GitHub Stats
@@ -117,62 +113,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-### Languages
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat?for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFCE41?style=flat&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DC55?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-6A9DD3?style=flat&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-7377AD?style=flat&logo=php&logoColor=white)
-
-### Web Development
-
-![React.js](https://img.shields.io/badge/React.js-81E0FF?style=flat&logo=react&logoColor=gray)
-![Next.js](https://img.shields.io/badge/Next.js-white?style=flat&logo=next.js&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-orange?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7330F9?style=flat&logo=bootstrap&logoColor=white)
-![PostCSS](https://img.shields.io/badge/PostCSS-white?style=flat&logo=postcss&logoColor=DE4012)
-![jQuery](https://img.shields.io/badge/jQuery-0E6EB0?style=flat&logo=jquery&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-81E0FF?style=flat&logo=ejs&logoColor=white&color=BF225A)
-
-### Backend & APIs
-
-![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js&logoColor=87CF30)
-![Express](https://img.shields.io/badge/Express-white?style=flat&logo=express&logoColor=black)
-![GraphQL](https://img.shields.io/badge/GraphQL-F6089F?style=flat&logo=graphql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-143A51?style=flat&logo=prisma&logoColor=143A51&color=white)
-![Firebase](https://img.shields.io/badge/Firebase-6C67A9?style=flat&logo=firebase&logoColor=F5A516&color=0396DE)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6C67A9?style=flat&logo=postgresql&logoColor=white&color=396C94)
-![MongoDB](https://img.shields.io/badge/MongoDB-54B245?style=flat&logo=mongodb&logoColor=54B245&color=086D50)
-![MySQL](https://img.shields.io/badge/MySQL-6C67A9?style=flat&logo=mysql&logoColor=FFA81F&color=09648F)
-![SQLite](https://img.shields.io/badge/SQLite-6C67A9?style=flat&logo=sqlite&logoColor=023955&color=75BEE7)
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&color=2496ED)
-![Git](https://img.shields.io/badge/Git-F15739?style=flat&logo=git&logoColor=white&color=F15739)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=black&color=white)
-![Heroku](https://img.shields.io/badge/Heroku-6C67A9?style=flat&logo=heroku&logoColor=white&color=6C67A9)
-![Vite](https://img.shields.io/badge/Vite-6C67A9?style=flat&logo=vite&logoColor=67ABFF&color=FED936)
-![Webpack](https://img.shields.io/badge/Webpack-6C67A9?style=flat&logo=webpack&logoColor=237CC2&color=92D7FB)
-![Prettier](https://img.shields.io/badge/Prettier-6C67A9?style=flat&logo=prettier&logoColor=EB6363&color=253239)
-![ESLint](https://img.shields.io/badge/ESLint-6C67A9?style=flat&logo=eslint&logoColor=8582FA&color=5632CD)
-
-### Testing
-
-![Jest](https://img.shields.io/badge/Jest-C8431B?style=flat&logo=jest&logoColor=C8431B&color=413D3E)
-![Espresso](https://img.shields.io/badge/Espresso-6C67A9?style=flat&logo=espresso&logoColor=white&color=946E59)
-![Playwright](https://img.shields.io/badge/🎭Playwright-000000?style=flat&logo=playwright&logoColor=67ABFF&color=131313)
-
-### Mobile
-
-![Android](https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat?for-the-badge&logo=react&logoColor=61DAFB) -->
+<!-- [![FreeCodeCamp JavaScript Course - Part 4](https://ytcards.demolab.com/?id=oL1yaPt6AwA&title=FreeCodeCamp+JavaScript+Course+-+Part+4&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172)](https://www.youtube.com/watch?v=oL1yaPt6AwA)
+[![FreeCodeCamp JavaScript Course - Part 3](https://ytcards.demolab.com/?id=UHa0qlNRP_8&title=FreeCodeCamp+JavaScript+Course+-+Part+3&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172)](https://www.youtube.com/watch?v=UHa0qlNRP_8)
+[![FreeCodeCamp JavaScript Course - Part 2](https://ytcards.demolab.com/?id=5UBmso8Rtz0&title=FreeCodeCamp+JavaScript+Course+-+Part+2&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172)](https://www.youtube.com/watch?v=5UBmso8Rtz0)
+[![FreeCodeCamp JavaScript Course - Part 1](https://ytcards.demolab.com/?id=4OrZy6XsaKA&title=FreeCodeCamp+JavaScript+Course+-+Part+1&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172)](https://www.youtube.com/watch?v=4OrZy6XsaKA) -->
