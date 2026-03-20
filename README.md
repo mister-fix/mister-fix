@@ -88,7 +88,6 @@ _CEWD, Information Technology_
 <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
 <!-- END YOUTUBE-CARDS -->
 
 ## 📊 GitHub Stats
