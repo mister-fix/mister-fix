@@ -99,13 +99,13 @@ _CEWD, Information Technology_
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=mister-fix&show_icons=true&theme=radical" alt="GitHub stats for mister-fix" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mister-fix&layout=compact&theme=radical" alt="GitHub top langauges for mister-fix" />
-  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=mister-fix&theme=radical" alt="GitHub streak stats for mister-fix" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=stephen-wm&show_icons=true&theme=radical" alt="GitHub stats for stephen-wm" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephen-wm&layout=compact&theme=radical" alt="GitHub top langauges for stephen-wm" />
+  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=stephen-wm&theme=radical" alt="GitHub streak stats for stephen-wm" />
 </p>
 
 <!--
-**mister-fix/mister-fix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**stephen-wm/stephen-wm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
