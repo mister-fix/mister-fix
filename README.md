@@ -100,7 +100,7 @@ _CEWD, Information Technology_
 
 <p align="left">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=stephen-wm&show_icons=true&theme=radical" alt="GitHub stats for stephen-wm" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephen-wm&layout=compact&theme=radical" alt="GitHub top langauges for stephen-wm" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephen-wm&layout=compact&theme=radical" alt="GitHub top languages for stephen-wm" />
   <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=stephen-wm&theme=radical" alt="GitHub streak stats for stephen-wm" />
 </p>
 
