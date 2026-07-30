@@ -88,12 +88,7 @@ _CEWD, Information Technology_
 <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Python Programming MOOC 2026 - Part 6.1.2 Working with Multiple Files](https://ytcards.demolab.com/?id=MRjTg6NVzAk&title=Python+Programming+MOOC+2026+-+Part+6.1.2+Working+with+Multiple+Files&lang=en&timestamp=1785266379&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python Programming MOOC 2026 - Part 6.1.2 Working with Multiple Files")](https://www.youtube.com/watch?v=MRjTg6NVzAk)
-[![Python Programming MOOC 2026 - Part 6.1 Reading Files](https://ytcards.demolab.com/?id=M6R96ZnDTXI&title=Python+Programming+MOOC+2026+-+Part+6.1+Reading+Files&lang=en&timestamp=1784916015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python Programming MOOC 2026 - Part 6.1 Reading Files")](https://www.youtube.com/watch?v=M6R96ZnDTXI)
-[![2531436614 796559810 23d0ebdc 678a 4e83 bda2 1bb312407106](https://ytcards.demolab.com/?id=2dXITVjLWTk&title=2531436614+796559810+23d0ebdc+678a+4e83+bda2+1bb312407106&lang=en&timestamp=1784692510&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "2531436614 796559810 23d0ebdc 678a 4e83 bda2 1bb312407106")](https://www.youtube.com/watch?v=2dXITVjLWTk)
-[![Python Programming MOOC 2026 - GitHub Repository](https://ytcards.demolab.com/?id=Lp632-gpVxA&title=Python+Programming+MOOC+2026+-+GitHub+Repository&lang=en&timestamp=1784660419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python Programming MOOC 2026 - GitHub Repository")](https://www.youtube.com/watch?v=Lp632-gpVxA)
-[![Python Programming MOOC 2026 - Part 5.4.3 A Square of Letters](https://ytcards.demolab.com/?id=phc2ZdrVAaM&title=Python+Programming+MOOC+2026+-+Part+5.4.3+A+Square+of+Letters&lang=en&timestamp=1784649602&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python Programming MOOC 2026 - Part 5.4.3 A Square of Letters")](https://www.youtube.com/watch?v=phc2ZdrVAaM)
-[![Python Programming MOOC 2026 - Part 5.4.2 Student Database](https://ytcards.demolab.com/?id=cK4gSI_MFYA&title=Python+Programming+MOOC+2026+-+Part+5.4.2+Student+Database&lang=en&timestamp=1784574008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python Programming MOOC 2026 - Part 5.4.2 Student Database")](https://www.youtube.com/watch?v=cK4gSI_MFYA)
+
 <!-- END YOUTUBE-CARDS -->
 
 ## 📊 GitHub Stats
